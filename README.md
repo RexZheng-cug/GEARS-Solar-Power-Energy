@@ -49,6 +49,7 @@ Install dependencies with:
 
 ```bash
 pip install pandas matplotlib geopandas
+```
 
 ## Authors
 
